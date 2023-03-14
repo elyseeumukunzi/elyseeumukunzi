@@ -1,6 +1,6 @@
 Hi there 👋 <br>
-Want to get good? Use a different language for your next program!
-I will show you new stuff if you go through my publics
+Want to get good? Use a different language for your next program!<br>
+I will show you new stuff if you go through my publics<br><br>
 💬 Ask me.
 
 <!--
