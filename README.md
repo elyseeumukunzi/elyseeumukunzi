@@ -1,27 +1,55 @@
-Hi there 👋 <br>
-Want to get good? Use a different language for your next program!<br>
-I will show you new stuff if you go through my publics<br><br>
-💬 Ask me. 
+# 👋 Hi, I'm UMUKUNZI Elysee
 
-![php](https://user-images.githubusercontent.com/95704531/226769990-b68ddee5-9f6a-4047-88cc-9f1731267222.JPG)
-![react](https://user-images.githubusercontent.com/95704531/226770172-60fb7262-a8fa-46d5-8789-d503f0285541.JPG)
-![node](https://user-images.githubusercontent.com/95704531/226770183-bac15f7f-1f8b-4725-9ef6-15aecd7494fa.JPG)
-![html](https://user-images.githubusercontent.com/95704531/226770337-0d593fbf-87e2-4282-9993-bc33eb2b1193.JPG)
+Welcome to my GitHub! I'm a full-stack software developer from Rwanda with a passion for using technology to drive social impact, improve healthcare systems, and build inclusive digital experiences.
+
+---
+
+## 💻 Tech Stack
+
+- **Frontend:** React.js, Next.js, Webpack, TailwindCSS , Angular
+- **Backend:** Node.js, Express.js, PHP Laravel, PHP Laravel Filament.
+- **Mobile:** React Native, Expo
+- **Database:** MySQL, PostgreSQL, Firebase, Mongo
+- **Tools:** Azure DevOps, Postman, Git, GitHub, Figma, cPanel  
+- **Deployment:** Vercel, Netlify, Shared Hosting (Namecheap), Heroku
+
+---
+
+## 🚀 What I'm Working On
+
+- **🩺 Health-Tech Solutions**  
+  Building platform (Phone app & web) to support real-time Non Comunicable Disease management, medication, incident reporting notifications and data collection all in one handSet.
+
+
+- **📦 Inventory & Sales Apps**  
+  Streamlining Inventory Management and sales tracking for large business.
+
+- **🚗 CarBrain App**  
+  An app that interprets OBD2 vehicle diagnostic codes for non-tech-savvy drivers.
+
+- **🚌 RideWave**  
+  A smart Ride Sharing platform for passengers and drivers – accessible via mobile or USSD.
+
+---
+
+## 🌍 About Me
+
+- 📍 Based in: Kigali - Rwanda  
+- 🎓 L2 in Computer Science
+- 🧠 Focused on increasing inclusive technology in Rwanda.
+- 🤝 Working with NGOs like **Innovate Solutions Ltd** , **Urugero Business & Holdings** , **Stand Together for Change**.
+
+---
 
 
 
+---
 
-<!--
-**elyseeumukunzi/elyseeumukunzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Let's Connect
 
-Here are some ideas to get you started:
+- ✉️ Email: [umukunzielysee@gmail.com](mailto:umukunzielysee@gmail.com)
+- Contacts: +250789817969
+- 🔗 LinkedIn: [linkedin.com/in/umukunzielysee](https://linkedin.com/in/umukunzielysee)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Thanks for stopping by! Let's build something impactful together 💙
