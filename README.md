@@ -51,10 +51,10 @@ Currently working in Digital Umuganda integrating systems with LLM aiming to sol
 </div>
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[YOUR-USERNAME])
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elyseeumukunzi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YOUR-LINKEDIN])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR-EMAIL])
-[![Twitter Follow](https://img.shields.io/twitter/follow/[YOUR-TWITTER]?style=social)](https://twitter.com/[YOUR-TWITTER])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elyseeumukunzi@gmail.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/elyseeumukunzi?style=social)](https://twitter.com/elyseeumukunzi)
 
 **Development:**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -76,17 +76,17 @@ Currently working in Digital Umuganda integrating systems with LLM aiming to sol
 
 |GitHub Statistics|Top Languages|Contribution Streak|
 |-|-|-|
-|[![Your github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=transparent&hide_title=true)](https://github.com/[YOUR-USERNAME])|[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&show_icons=true&theme=transparent&layout=compact&hide_title=true)](https://github.com/[YOUR-USERNAME])|![Streaks](https://github-readme-streak-stats-eight.vercel.app/?user=[YOUR-USERNAME]&theme=transparent)
+|[![Your github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=transparent&hide_title=true)](https://github.com/elyseeumukunzi)|[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elyseeumukunzi&show_icons=true&theme=transparent&layout=compact&hide_title=true)](https://github.com/elyseeumukunzi)|![Streaks](https://github-readme-streak-stats-eight.vercel.app/?user=elyseeumukunzi&theme=transparent)
 
 <br>
 <p align="center">
   <h2 align="center">GitHub Achievements</h2>
 </p>
 
-[![trophy](https://github-trophies.vercel.app/?username=[YOUR-USERNAME]&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/[YOUR-USERNAME])
+[![trophy](https://github-trophies.vercel.app/?username=elyseeumukunzi&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/elyseeumukunzi)
 
 <hr>
 <div align="center">
 <br><p align="center"><b>Profile Views</b></p>  
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=[YOUR-USERNAME].[YOUR-USERNAME]" alt="visitors"/></p>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=elyseeumukunzi.elyseeumukunzi" alt="visitors"/></p>
 <br></div>
