@@ -76,7 +76,7 @@ Currently working in Digital Umuganda integrating systems with LLM aiming to sol
 
 |GitHub Statistics|Top Languages|Contribution Streak|
 |-|-|-|
-|[![Your github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=transparent&hide_title=true)](https://github.com/elyseeumukunzi)|[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elyseeumukunzi&show_icons=true&theme=transparent&layout=compact&hide_title=true)](https://github.com/elyseeumukunzi)|![Streaks](https://github-readme-streak-stats-eight.vercel.app/?user=elyseeumukunzi&theme=transparent)
+|[![Your github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=elyseeumukunzi&show_icons=true&theme=transparent&hide_title=true)](https://github.com/elyseeumukunzi)|[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elyseeumukunzi&show_icons=true&theme=transparent&layout=compact&hide_title=true)](https://github.com/elyseeumukunzi)|![Streaks](https://github-readme-streak-stats-eight.vercel.app/?user=elyseeumukunzi&theme=transparent)
 
 <br>
 <p align="center">
