@@ -2,7 +2,7 @@
 
 **Full-Stack Developer & Systems Architect and Analysis** building scalable solutions across web, mobile, and IoT platforms. I transform complex business challenges into elegant, user-centric applications that drive real-world impact and use AI models to make things easier and elegant.
  
-Currently working in Digital Umuganda integrating systems with LLM aiming to solve real word digital problems and integrating Africa in AI World
+Currently working in Digital Umuganda developing and integrating systems with LLM aiming to solve real word digital problems and integrating Africa in AI World
 
 #### What I Build
 - 🔭 Developing LLM-powered educational platforms for community health workers and  AI Copilots that are used by Nurse in their daily activities
