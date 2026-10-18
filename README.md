@@ -1,6 +1,6 @@
 # 👋 Hi, I'm UMUKUNZI Elysee
 
-**Full-Stack Developer & Systems Architect and Analysis** building scalable solutions across web, mobile, and IoT platforms. I transform complex business challenges into elegant and simple usable user-centric applications that drive real-world impact and use AI models to make things easier and elegant.
+**Full-Stack Developer & Systems Architect and Analysis** building scalable solutions across web, mobile, and IoT platforms. I transform complex business challenges into elegant and simple usable user-centric applications that drive real-world impact and use AI models to make things easier and elega
  
 Currently working in Digital Umuganda developing and integrating systems with LLM aiming to solve real word digital problems and integrating Africa in AI World
 
